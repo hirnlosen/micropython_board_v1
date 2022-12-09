@@ -1,0 +1,5 @@
+{
+"display": {"width": 128, "height": 64, "scl": 5, "sda": 4, "top_bar_height": 16},
+"buttons" : {"button1": 14, "button2": 12, "button3": 13},
+"leds": {"led1": 15}
+}

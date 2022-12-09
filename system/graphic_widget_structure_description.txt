@@ -1,0 +1,4 @@
+List of graphic widget main methods
+- __init__
+- set_location
+- update

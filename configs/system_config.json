@@ -1,0 +1,5 @@
+{
+"wifi": {"enabled": true, "current_network_id": "id1"}, 
+"access_point": {"enabled": false, "essid": null, "password": null},
+"time": {"timezone": 3}
+}
